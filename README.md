@@ -4,6 +4,8 @@
 
 ## Usage:
   
+Server:
     ruby rcv.rb
 
+Client:
     ruby send.rb This is a test.
